@@ -3,7 +3,7 @@ Only challenges solved from 25.01.2023 are counted.
 
 ## Solved katas stats
 
-| Kata level | 8 Kyu | 7 Kyu | 6 Kyu | 5 Kyu | 4 Kyu | 3 Kyu | 2 Kyu | 1 Kyu |
+| Kata level | 8 Kyu | 7 Kyu | <span style="color: #ECB613">6 Kyu</span> | <span style="color: #ECB613">5 Kyu</span> | <span style="color: #3C7EBB">4 Kyu</span> | <span style="color: #3C7EBB">3 Kyu</span> | <span style="color: #866CC7">2 Kyu</span> | <span style="color: #866CC7">1 Kyu</span> |
 |------------|-------|-------|-------|-------|-------|-------|-------|-------|
 | Solved     | 2     | 1     | 0     | 1     | 0     | 0     | 0     | 0     |
 
